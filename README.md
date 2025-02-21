@@ -1,1 +1,2 @@
 # Steganography
+The project aims to develop a secure data hiding system using steganography techniques, where sensitive information is concealed within images to ensure privacy. By utilizing Python libraries such as OpenCV (CV2), OS, and String, the system will embed data into image files in a way that is undetectable to the human eye, preventing unauthorized access. The goal is to provide an efficient method for secure communication, allowing users to hide confidential data in digital images while maintaining the image's integrity.
